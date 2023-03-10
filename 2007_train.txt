@@ -1,0 +1,618 @@
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets0.png 29,105,82,160,0 122,66,193,154,0 201,43,246,98,0 307,17,371,107,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets100.png 158,20,205,71,0 106,11,154,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets101.png 231,2,266,42,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets103.png 149282,10520,177697,32350,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets104.png 196,61,237,112,0 101,43,152,102,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets105.png 145,2,194,51,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets107.png 198,4,267,79,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets108.png 151,30,202,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets109.png 47,110,118,181,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets11.png 135,22,231,128,0 19,70,75,137,0 300,73,342,131,0 355,21,413,99,0 61,73,114,130,0 561,47,600,95,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets110.png 491,83,527,129,1 307,103,338,139,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets111.png 148,43,183,84,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets112.png 231,19,297,90,1 107,21,164,87,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets113.png 152,6,196,51,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets114.png 344,63,372,99,0 277,66,298,90,0 172,67,196,94,0 92,54,120,87,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets115.png 74,72,114,107,0 188,85,212,114,0 230,90,249,114,0 280,96,292,110,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets116.png 367,102,388,128,0 255,100,272,120,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets117.png 90,51,130,94,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets118.png 224,94,257,129,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets119.png 195,22,262,95,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets12.png 218,58,258,104,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets120.png 248,1,308,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets121.png 186,13,241,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets122.png 146,45,186,86,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets123.png 150,135,170,153,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets124.png 61,61,89,96,0 138,70,160,94,0 345,65,371,97,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets126.png 369,137,414,189,0 277,125,312,165,0 73,140,114,188,0 474,115,510,158,0 184,143,240,202,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets127.png 49,31,119,111,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets128.png 194,6,227,60,1 227,13,251,55,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets131.png 279,66,297,89,0 343,67,372,99,0 260,75,276,94,0 174,70,192,93,0 135,70,160,94,0 92,56,119,87,0 60,60,89,93,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets132.png 348,92,387,139,0 237,62,277,108,0 169,77,199,121,0 105,107,128,135,0 51,135,73,160,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets133.png 175,103,216,141,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets134.png 163,52,191,83,0 21,45,52,83,0 253,41,272,66,0 211,41,231,63,0 309,37,325,56,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets135.png 97,7,167,92,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets136.png 191,13,229,52,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets138.png 288,32,331,77,0 69,47,108,92,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets139.png 231,24,273,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets14.png 165,66,227,138,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets141.png 274,59,306,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets142.png 86,52,153,132,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets143.png 322,22,352,55,1 97,18,131,56,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets144.png 134,63,178,111,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets146.png 452,88,555,207,0 309,92,402,202,0 180,111,247,187,0 51,108,159,220,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets148.png 151,11,214,90,0 295,83,343,136,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets150.png 145,47,178,83,0 326,63,352,95,1 232,68,260,97,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets151.png 139,10,185,67,0 111,29,147,75,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets152.png 342,131,385,178,0 240,122,276,166,0 414,123,451,154,0 486,124,519,177,0 94,109,117,131,0 174,111,201,139,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets153.png 90,54,177,145,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets156.png 166,6,208,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets157.png 227,90,264,130,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets158.png 145,6,186,56,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets159.png 171,54,216,102,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets161.png 129,41,198,108,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets164.png 289,19,331,67,0 241,32,270,76,0 128,40,150,68,0 201,33,229,67,0 81,44,99,67,0 44,47,64,72,0 9,54,27,78,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets165.png 159,3,239,83,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets166.png 175,31,258,123,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets167.png 246,0,306,62,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets168.png 109,4,199,119,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets169.png 257,17,340,102,0 213,38,262,100,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets17.png 280,40,314,82,0 188,52,209,79,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets170.png 122,6,167,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets172.png 109,14,165,69,1 423,5,475,65,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets174.png 170,14,199,50,0 249,9,290,52,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets175.png 194,68,223,96,1 346,40,372,61,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets176.png 114,38,147,78,1 254,67,273,85,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets178.png 68,50,243,180,0 310,40,499,203,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets18.png 140,5,191,48,0 84,7,125,50,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets180.png 149,29,179,60,1 294,26,319,58,1 34,65,59,91,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets181.png 172,26,220,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets182.png 193,3,250,75,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets183.png 185,61,242,120,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets184.png 278,155,295,172,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets187.png 280,7,335,58,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets188.png 205,53,238,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets189.png 101,11,162,88,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets19.png 154,5,221,82,0 309,82,345,130,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets191.png 196,11,260,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets192.png 154,38,200,91,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets193.png 194,49,242,89,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets194.png 286,46,319,88,0 93,39,123,72,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets195.png 266,30,300,72,0 172,36,207,80,0 348,2,390,48,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets196.png 121,50,160,99,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets197.png 231,74,260,111,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets198.png 146,22,204,83,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets199.png 253,1,312,47,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets2.png 283,14,328,61,0 206,27,246,77,0 107,13,161,73,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets20.png 93,116,162,193,0 154,161,271,293,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets200.png 157,8,213,77,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets201.png 144,80,196,133,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets202.png 289,64,330,109,0 125,50,162,85,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets203.png 328,33,380,90,0 249,48,291,92,0 147,93,168,114,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets204.png 201,109,226,131,1 162,107,178,122,1 295,84,318,116,1 143,104,154,118,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets205.png 112047,2028,155142,27040,0 161,6,226,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets206.png 83,12,192,157,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets208.png 322,69,356,101,0 268,58,298,90,0 164,51,191,82,1 62,56,90,87,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets209.png 112,9,155,53,0 76,8,110,46,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets21.png 103,27,222,146,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets210.png 222,54,256,91,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets211.png 159,19,215,80,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets212.png 120,5,167,49,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets213.png 278,53,323,99,0 145,42,184,88,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets214.png 154,100,187,141,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets215.png 174,67,205,99,0 62,67,91,98,0 285,71,310,105,0 323,69,355,98,0 136,64,162,97,0 224,39,253,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets217.png 266,69,290,99,1 249,56,271,91,1 362,65,373,81,1 316,55,331,74,1 241,45,251,59,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets218.png 112,40,192,125,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets219.png 205,25,266,82,0 60,46,109,93,0 419,10,482,84,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets22.png 186,11,244,73,0 132,3,184,53,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets221.png 128,5,161,41,0 186,13,234,73,0 324,29,363,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets222.png 215,71,241,101,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets223.png 65,52,82,69,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets224.png 202,32,236,57,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets226.png 118,1,253,97,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets227.png 46,25,119,105,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets228.png 60,25,113,77,0 377,45,424,97,0 186,32,233,77,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets229.png 141,21,181,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets23.png 112,27,161,82,0 306,75,332,99,0 338,76,356,100,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets230.png 179,2,215,43,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets231.png 152,6,206,55,0 226,12,273,53,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets232.png 197,2,272,92,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets233.png 169,10,220,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets234.png 176,9,236,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets236.png 43,5,123,106,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets237.png 165,17,220,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets238.png 131,0,170,40,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets239.png 145,32,205,88,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets24.png 107,5,203,129,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets240.png 119,13,153,55,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets241.png 196,61,232,98,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets243.png 174,0,336,184,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets245.png 173,27,238,100,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets246.png 199,14,235,50,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets247.png 294,23,327,66,0 218,60,268,114,0 173,63,209,101,0 116,55,151,100,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets248.png 169,9,204,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets249.png 121,34,197,107,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets250.png 208,48,241,90,0 119,70,137,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets251.png 150,5,177,40,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets252.png 102,46,152,101,0 196,61,239,113,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets253.png 189,53,221,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets255.png 225,41,274,85,0 184,37,217,70,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets256.png 242,0,290,47,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets257.png 165,10,196,47,0 77,18,112,54,0 252,40,283,77,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets258.png 95,121,157,189,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets259.png 13,9,74,69,0 94,10,159,72,0 207,11,249,78,0 246,10,317,110,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets26.png 223,108,358,247,0 314,177,429,297,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets260.png 187,23,238,73,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets261.png 90,71,176,162,0 214,125,258,170,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets262.png 253,97,304,155,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets263.png 187,51,222,94,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets266.png 193,64,221,95,1 346,40,371,68,1 219,56,244,90,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets267.png 253,96,303,155,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets268.png 137,18,184,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets269.png 190,15,247,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets27.png 179,14,265,92,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets270.png 172,25,253,132,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets271.png 7,35,58,86,0 89,49,121,82,0 149,41,181,81,0 221,65,247,90,0 349,31,395,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets272.png 155,19,208,74,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets273.png 59,12,123,74,0 249,12,278,43,0 374,0,425,40,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets274.png 145,2,215,74,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets275.png 261,2,339,98,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets276.png 155,70,215,128,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets280.png 251,29,282,62,0 135,21,159,51,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets281.png 143,70,169,103,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets282.png 133,11,237,137,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets283.png 250,78,280,118,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets284.png 315,28,376,91,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets285.png 72,120,186,234,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets286.png 246,31,266,61,0 164,32,194,74,0 45,33,94,85,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets287.png 240,24,288,80,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets289.png 154,45,225,127,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets29.png 143,6,212,93,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets290.png 192,36,230,89,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets291.png 219,14,251,52,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets292.png 45,18,142,116,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets293.png 145,250,171,279,0 208,233,225,254,0 277,245,303,271,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets294.png 228,22,275,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets297.png 182,105,207,131,1 78,98,97,119,0 271,96,294,119,1 233,93,250,110,0 47,110,65,132,1 144,105,162,128,1 110,89,127,108,1 143,86,156,100,1 213,97,228,116,0 184,87,198,102,1 317,83,331,97,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets298.png 115,41,149,76,1 257,68,272,86,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets299.png 155,139,210,203,0 111,111,134,145,0 231,108,249,132,0 157,101,168,118,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets3.png 202,39,222,64,0 288,50,305,74,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets30.png 94,62,152,130,0 24,159,70,210,0 132,101,180,156,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets300.png 186,20,231,73,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets301.png 98,41,171,129,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets302.png 172,30,219,73,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets303.png 199,104,218,125,0 286,109,304,126,0 114,103,132,127,1 233,112,248,126,1 336,114,351,129,0 68,102,88,124,0 260,107,279,127,0 320,114,332,127,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets304.png 303,53,333,90,1 247,66,265,91,1 112,69,131,92,1 14,57,39,86,1 51,60,76,83,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets306.png 385,55,451,139,1 200,39,270,127,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets309.png 154,7,242,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets31.png 312,248,345,284,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets310.png 192,3,245,77,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets312.png 151,19,193,57,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets313.png 284,16,306,42,0 79,17,103,43,0 348,16,369,37,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets314.png 157,55,205,100,1 86,19,138,75,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets315.png 207,23,327,156,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets316.png 121,86,175,149,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets317.png 253,95,304,152,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets318.png 162,71,185,93,1 71,66,95,94,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets32.png 38,69,97,140,0 217,10,297,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets320.png 312,49,341,91,0 148,10,204,81,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets322.png 177,48,237,106,0 234,12,292,67,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets323.png 181,72,242,145,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets325.png 273,102,290,126,1 157,75,182,98,1 22,77,45,102,1 190,77,213,102,1 124,74,139,93,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets326.png 34200,3200,60000,42000,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets327.png 252,96,306,154,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets328.png 199,19,244,69,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets33.png 29,27,100,102,0 175,58,217,111,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets330.png 127,8,207,106,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets331.png 164,35,187,62,1 191,41,215,66,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets332.png 264,1,326,82,0 151,31,195,98,0 48,42,94,101,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets333.png 194,61,242,112,0 106,47,150,101,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets334.png 129,170,146,186,0 190,159,206,175,1 81,175,97,191,1 21,175,40,194,1 148,148,160,159,0 346,155,362,171,0 316,138,327,149,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets337.png 157,29,222,112,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets338.png 102,158,125,190,1 283,146,291,156,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets339.png 180,24,223,73,0 43,21,67,55,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets34.png 136,14,184,62,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets340.png 144,46,227,134,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets341.png 135,57,174,101,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets342.png 156,16,204,72,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets344.png 124,17,151,47,1 78,21,101,45,1 197,22,217,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets346.png 138,22,198,87,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets347.png 180,20,276,130,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets348.png 165,5,215,57,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets349.png 247,46,300,97,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets35.png
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets350.png 188,2,249,77,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets351.png 183,103,221,147,0 322,81,355,119,0 249,60,283,100,0 65,48,95,77,0 10,74,45,111,0 123,58,155,91,0 197,29,229,63,0 367,40,396,74,0 280,21,303,47,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets352.png 245,2,307,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets354.png 317,26,341,52,0 242,16,264,40,0 180,10,204,35,0 28,5,50,25,0 114,5,139,29,0 363,32,377,47,0 281,28,292,42,0 384,36,398,53,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets355.png 131,15,285,168,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets356.png 236,73,290,130,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets357.png 214,11,298,85,1 328,11,400,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets358.png 199,21,247,74,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets359.png 181,3,214,43,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets36.png 170,35,235,94,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets360.png 170,7,246,86,0 298,3,392,107,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets363.png 185,70,226,108,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets364.png 212,50,250,87,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets365.png 219,32,243,59,1 132,31,155,56,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets366.png 312,21,333,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets367.png 276,78,381,190,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets369.png 166,94,201,143,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets370.png 180,9,220,49,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets371.png 162,43,187,72,1 350,103,375,129,0 45,15,79,52,1 235,62,259,92,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets373.png 194,34,234,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets376.png 176,10,214,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets377.png 17,36,47,69,0 298,43,344,110,0 169,35,202,78,0 230,41,260,72,0 117,36,144,70,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets378.png 174,63,244,143,0 146,8,196,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets379.png 150,1,188,46,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets380.png 306,13,416,138,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets382.png 225,19,281,74,0 285,18,336,66,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets385.png 41,38,77,79,1 227,54,253,88,1 155,47,186,88,1 299,57,321,84,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets386.png 210,38,248,86,0 310,24,343,65,0 126,43,158,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets388.png 90,6,149,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets39.png 150,38,194,85,1 344,48,393,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets390.png 158,158,215,207,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets391.png 117,118,139,139,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets392.png 272,35,322,93,0 34,58,97,111,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets393.png 241,53,280,91,1 84,72,116,103,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets394.png 61,85,103,130,1 172,92,205,128,1 251,88,284,123,1 347,88,377,120,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets395.png 229,0,289,52,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets396.png 194,7,253,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets397.png 172,26,221,74,0 256,20,286,56,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets398.png 151,10,207,51,0 236,17,267,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets399.png 182,104,203,132,1 272,95,293,118,1 146,107,162,128,1 110,89,126,107,1 79,99,93,116,0 214,98,228,116,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets4.png 180,43,233,88,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets400.png 172,25,249,130,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets401.png 137,52,178,97,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets402.png 109,21,162,84,1 233,16,292,86,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets403.png 109,114,125,132,0 56,123,76,137,1 182,79,199,97,1 111,139,133,158,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets404.png 184,10,215,42,1 130,11,162,48,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets405.png 200,9,228,36,0 48,11,75,40,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets406.png 159,3,211,60,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets407.png 233,12,288,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets408.png 171,49,188,72,1 190,59,208,81,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets409.png 203,40,252,105,0 269,54,315,110,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets410.png 165,65,225,141,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets411.png 135,39,180,87,0 237,90,247,101,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets412.png 81,55,137,119,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets413.png 253,1,307,44,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets414.png 314,30,378,96,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets415.png 176,17,237,75,0 307,57,362,123,0 63,35,109,102,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets416.png 198,34,254,110,0 102,5,170,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets417.png 174,83,226,150,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets418.png 192,46,232,88,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets420.png 106,2,196,90,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets421.png 36,96,89,157,0 122,98,180,155,0 217,131,254,189,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets422.png 23,42,47,68,1 267,24,286,41,0 352,48,380,71,1 121,46,144,74,1 229,60,258,93,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets423.png 77,71,93,95,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets424.png 124,27,194,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets425.png 112,54,220,170,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets426.png 191,11,261,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets428.png 15,20,94,103,0 112,11,183,75,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets429.png 143,20,171,56,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets43.png 121,19,140,44,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets430.png 82,76,108,101,1 243,55,283,92,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets431.png 185,15,242,94,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets432.png 313,2,420,102,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets433.png 320,46,358,88,0 138,39,192,92,0 189,57,223,100,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets434.png 186,7,247,83,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets435.png 70,2,147,85,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets436.png 98,7,179,114,1 210,5,285,90,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets437.png 114,10,151,54,0 236,17,279,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets439.png 352,67,373,103,0 291,71,312,102,0 259,72,283,96,0 222,68,249,94,0 202,71,221,94,0 173,77,194,103,0 152,70,169,89,0 113,72,132,98,0 68,73,87,100,0 28,70,53,92,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets44.png 115,4,173,68,0 49,12,91,60,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets440.png 44,38,74,76,1 161,51,185,85,1 299,58,321,84,1 229,56,254,83,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets441.png 112000,3000,136400,21900,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets443.png 229,67,272,120,0 295,61,341,107,0 39,66,85,119,0 164,85,204,125,0 103,86,142,132,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets444.png 52000,1272,67600,13992,1 27,1,56,29,1 86,5,114,33,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets445.png 162,17,201,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets446.png 176,4,230,83,0 282,74,305,106,0 99,58,133,100,0 99,58,133,100,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets447.png 225,2,292,69,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets448.png 199,17,246,75,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets449.png 313,64,336,87,1 211,104,236,124,0 175,91,187,104,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets45.png 187,20,241,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets450.png 49,32,69,55,1 328,35,350,63,0 368,38,395,63,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets453.png 165,7,224,70,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets454.png 291,16,327,66,0 200,33,231,65,0 243,32,269,72,0 129,41,149,66,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets455.png 138,22,183,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets456.png 155,29,206,94,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets457.png 180,90,194,104,0 267,94,289,111,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets458.png 278,2,328,49,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets459.png
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets46.png 253,61,290,93,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets461.png 284,36,339,92,0 170,20,248,93,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets462.png 98,25,115,43,0 175,34,185,45,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets463.png 257,23,297,70,0 150,15,193,57,0 68,25,122,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets464.png 155,5,212,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets465.png 226,111,244,134,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets468.png 75,9,153,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets469.png 39,129,84,174,0 134,117,163,145,0 306,80,342,118,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets471.png 166,94,204,143,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets472.png 207,12,231,38,0 66,45,89,78,1 55,19,75,45,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets473.png 202,56,259,119,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets474.png 286,65,315,97,0 197,64,225,96,0 110,73,150,116,0 75,61,106,96,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets475.png 230,104,347,249,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets476.png 119,2,199,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets477.png 211,2,261,46,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets478.png 183,1,215,31,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets48.png 152,37,226,135,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets480.png 177,19,206,54,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets481.png 279,77,381,194,0 388,97,486,195,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets483.png 26,122,62,158,1 165,118,194,148,1 279,103,299,130,1 257,116,275,142,1 305,113,323,135,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets484.png 58,69,110,119,0 292,53,338,106,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets485.png 160,29,204,86,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets486.png 192,36,237,85,0 79,16,124,62,0 298,16,340,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets487.png 211,56,243,94,1 172,61,198,87,1 194,49,215,69,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets488.png 110,22,166,78,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets49.png 174,24,216,73,0 257,19,288,54,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets490.png 152,78,248,167,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets491.png 150,10,222,94,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets492.png 348,91,436,196,0 157,20,247,125,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets494.png 149,13,233,105,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets496.png 201,17,249,77,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets497.png 137,1,177,39,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets499.png 130,25,170,80,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets5.png 120,2,178,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets500.png 72,6,120,55,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets502.png 187,2,219,40,1 248,6,272,36,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets503.png 190,14,246,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets505.png 290,31,335,82,1 261,86,293,123,1 273,141,302,176,1 234,132,265,162,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets506.png 197,11,301,124,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets507.png 119,34,158,81,1 220,110,263,161,0 263,65,291,108,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets508.png 196,11,256,78,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets509.png 118,35,185,120,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets51.png 113,22,158,72,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets510.png 230,87,276,126,0 294,74,318,107,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets511.png 271,18,312,58,0 86,8,129,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets512.png 170,8,227,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets513.png 235,22,347,161,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets514.png 124,19,153,47,1 81,22,99,46,1 196,24,216,49,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets515.png 235,27,265,62,0 77,49,111,89,0 122,5,159,39,0 282,67,314,104,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets516.png 82,46,117,78,1 317,55,344,82,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets517.png 131,23,210,95,0 113,100,160,145,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets518.png 69,66,107,105,0 146,34,178,76,0 289,12,321,51,0 213,58,242,92,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets52.png 150,21,186,59,1 308,5,344,43,1 39,16,76,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets520.png 277,47,335,113,0 133,78,175,128,0 454,75,478,105,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets521.png 191,8,253,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets522.png 263,7,303,51,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets524.png 176,2,220,45,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets525.png 292,38,325,75,0 72,51,104,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets526.png 122,8,145,37,1 51,16,76,43,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets529.png 154,72,180,95,0 284,104,300,121,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets53.png 192,10,250,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets530.png 104918,4272,145764,35244,0 305,56,365,131,0 58,31,116,107,0 181,17,233,76,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets531.png 97,29,135,68,1 193,1,235,38,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets532.png 176,5,326,195,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets535.png 197,65,250,123,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets536.png 290,90,308,108,0 224,102,242,121,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets538.png 160,160,209,206,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets539.png 168,19,218,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets540.png 79,13,145,97,1 175,48,219,109,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets541.png 69,3,120,58,0 285,5,346,76,0 30,7,72,61,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets542.png 169,4,238,56,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets543.png 100,57,162,126,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets544.png 156,9,212,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets545.png 82,7,211,159,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets546.png 143,21,172,56,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets547.png 132,100,149,118,0 189,156,210,179,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets548.png 181,64,221,113,0 219,45,252,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets549.png 146,19,195,69,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets55.png 165,106,196,137,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets550.png 208,13,240,52,1 136,4,167,39,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets551.png 161,5,208,63,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets552.png 113,60,215,165,0 220,66,281,155,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets553.png 118,17,149,57,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets554.png 209,14,244,58,1 250,0,293,36,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets555.png 239,90,268,122,0 129,83,154,117,0 326,104,347,130,0 278,85,301,109,0 85,102,107,123,0 188,86,204,112,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets556.png 187,23,239,75,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets557.png 232,63,253,91,0 282,65,303,87,0 130,54,149,79,1 41,55,67,79,1 323,60,339,78,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets559.png 244,31,286,87,1 127,28,168,79,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets56.png 97,34,131,72,0 215,45,248,86,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets561.png 197,27,231,70,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets562.png 81,33,144,104,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets564.png 148,11,223,86,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets565.png 250,16,301,69,0 109,1,177,57,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets566.png 118,10,150,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets567.png 59,12,119,74,0 247,11,278,44,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets568.png 180,16,234,75,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets569.png 128,27,189,103,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets57.png 122,2,167,48,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets570.png 165,47,211,95,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets571.png 154,143,212,198,0 109,111,138,143,0 227,107,252,133,0 153,98,169,119,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets572.png 12,75,31,97,1 94,72,115,80,1 195,10,228,48,1 298,69,319,90,1 361,82,375,102,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets573.png 83,72,152,139,0 253,121,313,194,0 390,35,447,102,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets574.png 287,17,330,68,0 244,33,270,71,0 200,31,231,66,0 126,39,154,68,0 79,43,99,69,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets575.png 168,7,223,71,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets576.png 103,59,164,128,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets577.png 231,18,290,96,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets578.png 148,18,182,54,1 109,57,135,87,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets579.png 146,0,188,47,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets58.png 257,101,322,163,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets581.png 264,101,322,159,0 357,94,401,138,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets582.png 400,69,443,123,0 257,62,295,96,0 116,73,165,125,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets583.png 342,108,379,149,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets584.png 62,121,122,184,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets585.png 210,25,279,82,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets586.png 192,23,233,71,0 296,37,318,59,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets589.png 89,11,129,52,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets59.png 264,28,306,73,0 171,33,211,82,0 346,1,391,49,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets590.png 277,2,325,50,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets591.png 119,65,216,196,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets592.png 179,161,197,179,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets593.png 285,5,336,64,0 111,5,149,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets594.png 244,11,285,48,1 96,16,124,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets595.png 114,64,181,128,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets596.png 160,31,185,62,0 135,31,150,53,0 119,32,132,55,0 196,29,216,51,0 44,37,60,56,1 90,42,104,58,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets597.png 185,44,245,108,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets598.png 87,33,152,112,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets599.png 282,55,314,96,0 149,45,182,86,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets6.png 313,12,356,52,0 255,18,280,52,0 235,19,256,50,0 141,17,175,54,0 171,8,196,37,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets60.png 155,1,218,61,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets600.png 218,11,263,55,0 268,20,311,60,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets601.png 140,195,170,227,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets602.png 212,14,280,83,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets604.png 174,59,198,84,1 198,50,215,70,1 212,59,241,92,1 235,89,255,116,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets605.png 77,47,118,99,1 109,50,148,106,1 141,56,170,100,1 167,54,202,101,1 215,6,255,64,1 250,45,289,88,1 286,37,324,81,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets606.png 156,32,217,90,0 257,26,318,80,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets607.png 165,23,222,70,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets608.png 165,2,235,87,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets609.png 241,59,269,95,1 192,65,221,99,0 156,63,178,91,1 109,59,129,79,1 324,57,348,92,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets61.png 246,39,337,140,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets610.png 99,2,173,95,0 198,34,256,117,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets611.png 257,21,287,59,0 236,79,273,117,0 123,5,153,45,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets613.png 197,44,225,75,0 280,67,306,94,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets615.png 85,81,110,110,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets616.png 132,65,157,88,0 81,64,102,87,0 214800,50400,235200,68600,0 248,76,271,100,0 197,73,212,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets617.png 137,9,206,90,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets618.png 112,70,138,95,0 190,78,212,106,0 286,92,304,117,0 327,100,342,119,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets619.png 111,12,192,113,0 9,27,50,75,0 228,27,259,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets62.png 161,23,216,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets620.png 195,42,215,70,0 112,45,135,78,0 149,47,164,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets621.png 199,7,258,84,0 133,40,186,88,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets622.png 174,55,226,116,1 382,74,434,131,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets623.png 191,38,248,108,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets624.png 60,7,118,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets625.png 160,19,215,75,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets626.png 222,2,258,38,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets627.png 205,42,242,79,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets629.png 181,21,230,74,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets63.png 135,45,214,150,0 51,12,119,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets630.png 221,8,278,51,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets632.png 315,58,343,94,0 71,32,156,127,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets634.png 164,32,209,97,1 82,16,137,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets635.png 283,26,306,55,1 225,21,240,44,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets636.png 182,61,224,96,0 114,31,144,62,0 135,7,163,39,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets637.png 188,76,208,103,1 43,89,66,115,1 357,81,379,109,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets638.png 105,4,169,71,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets639.png 111,6,160,74,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets640.png 278,265,311,301,1 121,252,151,283,1 404,133,424,153,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets641.png 144,1,203,78,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets642.png 270,51,308,89,0 122,61,151,96,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets643.png 212,102,231,118,1 128,102,145,117,1 213,80,233,101,1 131,84,151,102,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets644.png 235,74,274,119,0 123,4,158,39,1 255,15,293,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets645.png 299,45,343,88,0 168,32,209,80,0 50,27,103,79,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets647.png 234,23,279,75,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets648.png 193,63,241,110,0 100,46,152,99,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets65.png 182,59,225,100,0 116,32,145,63,0 137,9,163,34,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets650.png 178,17,229,70,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets651.png 107,8,150,53,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets652.png 165,27,209,78,0 75,3,131,64,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets654.png 199,31,270,113,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets655.png 127,73,152,94,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets656.png 78,40,102,69,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets658.png 277,8,338,60,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets659.png 278,9,331,58,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets660.png 148,65,170,92,0 202,122,215,135,1 61,103,74,120,0 314,102,328,118,1 121,99,137,117,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets661.png 229,58,269,98,0 64,80,106,112,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets663.png 49,18,133,110,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets664.png 106,40,160,109,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets665.png 167,62,202,97,1 89,72,113,97,1 31,70,57,90,1 121,63,143,85,1 276,64,301,90,1 344,66,359,85,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets666.png 149,50,184,82,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets668.png 95,20,125,51,1 231,21,256,49,1 156,3,194,36,1 96,18,125,52,1 337,45,370,89,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets669.png 65,3,146,80,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets67.png 312,57,413,175,0 228,68,307,185,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets670.png 127,11,161,49,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets673.png 222,18,290,84,0 350,23,397,82,0 424,15,460,51,0 476,33,504,58,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets674.png 237,45,285,93,0 164,42,210,91,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets675.png 256,12,344,121,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets677.png 282,43,347,111,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets679.png 216,3,260,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets68.png 210,3,262,46,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets680.png 167,0,226,57,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets681.png 123,1,169,54,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets682.png 266,32,284,47,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets683.png 184,36,215,69,1 293,42,324,80,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets684.png 87,10,142,69,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets685.png 151,68,187,109,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets687.png 188,16,243,69,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets689.png 87,99,107,126,1 226,114,239,128,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets69.png 231,33,264,74,0 257,33,289,72,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets690.png 170,40,201,68,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets691.png 213,110,360,250,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets692.png 202,67,247,114,0 118,62,156,107,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets693.png 193,61,237,112,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets694.png 120,3,166,52,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets695.png 168,21,219,72,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets696.png 155,17,205,72,0 104,12,153,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets697.png 245,48,293,93,0 326,36,385,87,0 212,72,244,104,0 147,92,169,115,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets698.png 163,161,210,205,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets699.png 221,61,256,104,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets7.png 201,80,219,106,0 311,91,339,117,0 78,74,97,98,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets70.png 184,1,228,41,1 231,33,250,63,1 211,32,231,62,1 151,19,177,53,1 131,0,157,36,1 102,0,131,40,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets700.png 134,189,158,212,1 383,198,397,215,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets702.png 293,85,314,108,1 210,87,225,104,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets703.png 182,59,225,97,0 116,33,149,63,0 137,7,166,33,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets704.png 204,48,244,98,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets706.png 174,33,219,83,1 139600,15000,164000,34500,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets707.png 202,43,235,86,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets708.png 87,98,108,123,1 58,101,78,120,1 176,113,190,129,1 227,112,240,129,1 258,120,267,132,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets71.png 407,66,457,114,0 256,94,292,128,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets712.png 165,7,236,95,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets713.png 144,8,208,95,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets714.png 118,13,152,54,0 62,24,93,63,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets715.png 197,41,288,158,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets716.png 176,1,222,45,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets718.png 186,3,222,41,1 248,4,273,35,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets72.png 148,3,202,61,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets720.png 142,13,175,45,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets721.png 164,10,225,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets722.png 126,2,176,63,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets723.png 182,25,250,79,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets724.png 132,18,185,73,0 202,18,233,62,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets725.png 192,10,233,50,1 294,67,325,94,1 94,71,119,98,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets726.png 193,16,257,80,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets728.png 70,50,136,119,0 189,116,256,190,0 273,5,341,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets729.png 218,28,278,86,0 112,83,161,132,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets730.png 188,44,293,152,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets731.png 149,96,201,147,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets732.png 145,6,206,92,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets733.png 202,52,238,96,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets734.png 184,12,217,50,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets735.png
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets737.png 92,53,125,102,0 187,32,220,74,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets739.png 183,21,227,67,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets740.png 309,27,329,49,0 345,22,367,47,1 202,32,225,56,1 107,33,131,58,1 17,30,43,56,1 239,24,255,47,1 69,29,91,54,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets741.png 293,30,355,102,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets742.png 191,2,249,79,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets743.png 199,18,245,71,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets744.png 101,84,125,115,1 302,89,334,122,0 206,85,230,115,1 26,64,59,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets745.png 148,1,183,30,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets747.png 222,28,303,117,0 159,52,214,121,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets748.png 193,41,231,83,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets749.png 268,59,316,112,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets75.png 172000,70800,204800,103500,0 287600,72900,321200,102000,0 164800,71400,208400,106800,0 296,100,335,142,0 179,104,210,137,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets750.png 154,140,209,202,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets752.png 184,63,200,84,1 121,65,138,87,1 53,68,75,88,1 244,60,261,80,1 320,62,340,83,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets753.png 220,10,263,56,0 277,4,322,50,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets754.png 168,37,289,136,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets755.png 139,2,180,53,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets756.png 174,33,268,128,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets758.png 164,11,209,60,0 344,52,366,79,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets759.png 148,99,172,123,0 230,103,247,124,1 64,102,88,125,1 287,97,304,116,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets76.png 141,118,171,159,0 69,118,91,149,1 243,124,265,158,1 346,121,371,158,1 238,74,261,104,1 28,106,40,127,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets760.png 204,24,264,86,0 419,10,481,84,0 60,49,111,96,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets762.png 248,12,307,77,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets763.png 149,33,197,97,0 47,41,89,99,0 262,1,329,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets764.png 71600,20000,103600,52800,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets765.png 193,13,265,65,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets77.png 175,5,222,58,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets78.png 93,30,209,158,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets79.png 206,13,256,65,0 259,5,294,42,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets80.png 155600,896,184000,19488,1 2,1,33,32,0 290,1,323,34,0 179,4,209,41,1 316,6,333,29,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets81.png 128,55,172,101,0 66,62,101,106,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets82.png 266,17,289,44,0 125,39,145,60,0 180,17,200,49,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets83.png 145,14,199,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets84.png 120,86,193,163,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets85.png 172,6,259,133,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets86.png 95,27,161,100,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets87.png 85,91,120,122,1 157,94,184,125,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets88.png 218,11,263,64,0 275,5,322,50,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets9.png 150,17,179,49,1 110,60,135,88,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets90.png 261,1,358,82,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets91.png 93,32,115,55,0 37,39,57,60,0 172,37,193,58,0 256,29,279,55,0 328,48,348,65,0 292,50,310,67,0 125,48,140,68,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets93.png 173,7,216,62,1
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets94.png 121,2,211,81,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets95.png 238,8,291,64,0 107,29,148,67,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets96.png 247,65,271,83,0 196,52,223,70,0 353,47,375,66,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets97.png 19,73,77,141,0 137,25,230,123,0 355,18,416,103,0
+D:\bs\yolov5-pytorch\VOCdevkit/VOC2007/JPEGImages/BikesHelmets99.png 268,59,295,86,0 161,52,193,83,1 63,57,90,86,1 325,68,353,102,0

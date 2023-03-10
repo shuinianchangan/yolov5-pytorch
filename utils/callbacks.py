@@ -6,7 +6,7 @@ import matplotlib
 matplotlib.use('Agg')
 import scipy.signal
 from matplotlib import pyplot as plt
-from torch.utils.tensorboard import SummaryWriter
+from tensorboardX import SummaryWriter
 
 import shutil
 import numpy as np
